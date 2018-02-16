@@ -1,0 +1,5 @@
+C:\repos\GetSeason\GetSeasonClassLibrary\obj\Debug\GetSeasonClassLibrary.csproj.CoreCompileInputs.cache
+C:\repos\GetSeason\GetSeasonClassLibrary\bin\Debug\GetSeasonClassLibrary.dll
+C:\repos\GetSeason\GetSeasonClassLibrary\bin\Debug\GetSeasonClassLibrary.pdb
+C:\repos\GetSeason\GetSeasonClassLibrary\obj\Debug\GetSeasonClassLibrary.dll
+C:\repos\GetSeason\GetSeasonClassLibrary\obj\Debug\GetSeasonClassLibrary.pdb

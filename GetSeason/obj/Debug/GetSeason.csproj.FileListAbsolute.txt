@@ -1,0 +1,9 @@
+C:\repos\GetSeason\GetSeason\obj\Debug\GetSeason.csproj.CoreCompileInputs.cache
+C:\repos\GetSeason\GetSeason\bin\Debug\GetSeason.exe.config
+C:\repos\GetSeason\GetSeason\bin\Debug\GetSeason.exe
+C:\repos\GetSeason\GetSeason\bin\Debug\GetSeason.pdb
+C:\repos\GetSeason\GetSeason\bin\Debug\GetSeasonClassLibrary.dll
+C:\repos\GetSeason\GetSeason\bin\Debug\GetSeasonClassLibrary.pdb
+C:\repos\GetSeason\GetSeason\obj\Debug\GetSeason.csprojResolveAssemblyReference.cache
+C:\repos\GetSeason\GetSeason\obj\Debug\GetSeason.exe
+C:\repos\GetSeason\GetSeason\obj\Debug\GetSeason.pdb
